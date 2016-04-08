@@ -1,0 +1,2 @@
+It is testing application. I built it to better learn ruby on rails.
+You may write a review for a movie. 
